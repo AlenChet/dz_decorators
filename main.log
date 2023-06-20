@@ -1,0 +1,25 @@
+2023-06-20 16:03:46.511779 - Called function: hello_world
+Arguments: (), {}
+Returned value: Hello World
+Execution time: 0:00:00
+
+2023-06-20 16:03:46.511779 - Called function: summator
+Arguments: (2, 2), {}
+Returned value: 4
+Execution time: 0:00:00
+
+2023-06-20 16:03:46.512779 - Called function: div
+Arguments: (6, 2), {}
+Returned value: 3.0
+Execution time: 0:00:00
+
+2023-06-20 16:03:46.512779 - Called function: summator
+Arguments: (4.3,), {'b': 2.2}
+Returned value: 6.5
+Execution time: 0:00:00
+
+2023-06-20 16:03:46.512779 - Called function: summator
+Arguments: (), {'a': 0, 'b': 0}
+Returned value: 0
+Execution time: 0:00:00
+

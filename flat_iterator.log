@@ -1,0 +1,65 @@
+2023-06-20 16:37:37.343529 - Called function: __init__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>, [[1, 2, 3], [4, 5], [6, 7, 8, 9]]), {}
+Returned value: None
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.343529 - Called function: __iter__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: <__main__.FlatIterator object at 0x000001B620364710>
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.343529 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 1
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.343529 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 2
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.344591 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 3
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.344591 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 4
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.344591 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 4
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.345592 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 5
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.345592 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 6
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.345592 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 6
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.345592 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 7
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.345592 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 8
+Execution time: 0:00:00
+
+2023-06-20 16:37:37.346591 - Called function: __next__
+Arguments: (<__main__.FlatIterator object at 0x000001B620364710>,), {}
+Returned value: 9
+Execution time: 0:00:00
+
